@@ -12,3 +12,8 @@ V2X communication logs (latency, drop rates, throughput)
 Real-time GPS and timestamped coordination
 
 Targets for collision, perception, and decision performance
+
+Assignment Task
+The dataset is dirtied, cleaned and EDA analysis is performed as stated below.
+1. Time Series Analysis by Zul Arif bin Zul Adenan (U2101223/2)
+2. K-MEANS Clustering by Muhammad Rashidul Bukhari bin Asan Mohamed (22004502/1)
